@@ -7,7 +7,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* ‚Ä
 | Nombre y Apellido | Usuario GitHub | Correo USM               | Rol USM      |
 | ----------------- | -------------- | ------------------------ | ------------ |
 | Basti√°n Johnson | @baston444     | bjohnson@usm.cl | 202630016-1 |
-| Nombre2 Apellido2 | @usuario2      | nombre2.apellido2@usm.cl | 200000000000 |
+| Nicolas Alvarez | @nicoko10      | nalvarezgu@usm.cl | 202630034-k |
 | Nombre3 Apellido3 | @usuario3      | nombre3.apellido3@usm.cl | 200000000000 |
 | Nombre4 Apellido4 | @usuario4      | nombre4.apellido4@usm.cl | 200000000000 |
 
