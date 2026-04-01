@@ -13,8 +13,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 📝 Descripción breve del proyecto
 
-> El, proyecto se va a tratar sobre un robot llamado "Sentinel", el cual su función sera llegar a lugares donde para una persona es inaxesible o peligrosos, por el cual se envia a Sentinel para poder cumplir este objetivo.
-> *Aquí va una descripción general del proyecto, incluyendo su propósito, contexto dentro del curso y motivación.*
+> Nuestro proyecto tiene como objetivo apoyar los ámbitos laboral y de investigación científica mediante el uso de un robot llamado “Sentinel”. Su función es acceder a entornos que resultan inaccesibles o peligrosos para las personas, y medir con precisión, distancia, temperatura, etc gracias a sus sensores. Por ello, Sentinel es desplegado para llevar a cabo estas tareas, permitiendo realizar trabajos en condiciones de riesgo de manera más segura y eficiente.
 
 ---
 
