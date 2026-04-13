@@ -8,8 +8,8 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 | ----------------- | -------------- | ------------------------ | ------------ |
 | Bastián Johnson | @baston444     | bjohnson@usm.cl | 202630016-1 |
 | Nicolas Alvarez | @nicoko10      | nalvarezgu@usm.cl | 202630034-k |
-| Jesus Galeas |Yisus_TLL  | jgaleas@usm.cl |202621814-7 |
-| Lucas Castro| lumino38    | lcastroav@usm.cl | 202630044-7 |
+| Jesus Galeas |@Yisus_TLL  | jgaleas@usm.cl |202621814-7 |
+| Lucas Castro| @lumino38    | lcastroav@usm.cl | 202630044-7 |
 
 ## 📝 Descripción breve del proyecto
 
