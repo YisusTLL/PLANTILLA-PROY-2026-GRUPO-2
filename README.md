@@ -20,13 +20,13 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - diseñar un brazo mecatronico que sea capaz de obtener data de humedad del suelo, hidrogeno, Co2, nitrogeno, temperatura, humedad ambiente y que tenga la capacidad de identificar su radio de visiom a travez de un giroscopio mas señales ultrasonicas.
+  - Diseñar un brazo mecatronico que sea capaz de obtener data de humedad del suelo, hidrogeno, Co2, nitrogeno, temperatura, humedad ambiente, y que tenga la capacidad de identificar su radio de vision a travez de un giroscopio, más señales ultrasonicas.
   -  
 
 - Objetivos específicos:
-  - aprender y Crear una aplicacion que sea capaz de controlar al robot, las lecturas y el brazo mecatronico a travez de un modulo bluetooth que se conectara al arduino.
+  - Aprender y crear una aplicacion que sea capaz de controlar al robot, las lecturas y el brazo mecatronico a travez de un modulo bluetooth que se conectara al arduino.
   - Realizar el diseño esquematico del circuito del control del brazo mecatronico mas sensores.
-  - Diseñar la estructura del brazo mecatronico y sus anclajes ( sensores, motores y taladro).
+  - Diseñar la estructura del brazo mecatronico y sus anclajes (sensores, motores y taladro).
 
 ---
 
@@ -78,7 +78,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 📅 Cronograma de trabajo
 
-[Carta Gantt](https://google.com)
+[[Carta Gantt](https://google.com)](https://usmcl-my.sharepoint.com/:x:/r/personal/jgaleas_usm_cl/Documents/Carta%20Gantt.xlsx?d=w419b2eb64bce4d5b9386c1a2a08d7fc1&csf=1&web=1&e=5rILhX)
 
 ---
 
