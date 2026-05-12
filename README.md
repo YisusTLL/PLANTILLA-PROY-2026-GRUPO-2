@@ -1,4 +1,5 @@
-# PROY-2026-GRUPOX
+# PROYECTO INICIAL 2026
+
 
 Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* – 2026.
 
